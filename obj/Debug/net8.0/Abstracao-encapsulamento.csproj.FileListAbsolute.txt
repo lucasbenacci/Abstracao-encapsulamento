@@ -1,0 +1,14 @@
+C:\Dev\Abstracao-encapsulamento\bin\Debug\net8.0\Abstracao-encapsulamento.exe
+C:\Dev\Abstracao-encapsulamento\bin\Debug\net8.0\Abstracao-encapsulamento.deps.json
+C:\Dev\Abstracao-encapsulamento\bin\Debug\net8.0\Abstracao-encapsulamento.runtimeconfig.json
+C:\Dev\Abstracao-encapsulamento\bin\Debug\net8.0\Abstracao-encapsulamento.dll
+C:\Dev\Abstracao-encapsulamento\bin\Debug\net8.0\Abstracao-encapsulamento.pdb
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.AssemblyInfoInputs.cache
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.AssemblyInfo.cs
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.csproj.CoreCompileInputs.cache
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.dll
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\refint\Abstracao-encapsulamento.dll
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.pdb
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\Abstracao-encapsulamento.genruntimeconfig.cache
+C:\Dev\Abstracao-encapsulamento\obj\Debug\net8.0\ref\Abstracao-encapsulamento.dll
