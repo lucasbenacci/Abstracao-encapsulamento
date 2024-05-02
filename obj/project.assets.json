@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Abstracao-encapsulamento\\Abstracao-encapsulamento.csproj",
+      "projectUniqueName": "C:\\Dev\\Abstracao-encapsulamento\\Abstracao-encapsulamento\\Abstracao-encapsulamento.csproj",
       "projectName": "Abstracao-encapsulamento",
-      "projectPath": "C:\\Dev\\Abstracao-encapsulamento\\Abstracao-encapsulamento.csproj",
+      "projectPath": "C:\\Dev\\Abstracao-encapsulamento\\Abstracao-encapsulamento\\Abstracao-encapsulamento.csproj",
       "packagesPath": "C:\\Users\\lucas.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Abstracao-encapsulamento\\obj\\",
+      "outputPath": "C:\\Dev\\Abstracao-encapsulamento\\Abstracao-encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.souza\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,6 +8,11 @@ namespace Abstracao_encapsulamento.Models
     public class Aluno : Pessoa
     {
         public string Email { get; set; }
-        public decimal Nota { get; set; }
+        public double Nota { get; set; }
+
+        public override void Apresentar()
+        {
+            Console.WriteLine($"Olá Meu nome é {Nome}, tenho {Idade} anos e minha note é {Nota}");
+        }
     }
 }
