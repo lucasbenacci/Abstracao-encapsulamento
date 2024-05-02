@@ -7,6 +7,15 @@ namespace Abstracao_encapsulamento.Models
 {
     public class Aluno : Pessoa
     {
+        public Aluno()
+        {
+            
+        }
+
+        public Aluno(string nome) : base(nome)
+        {
+            
+        }
         public string Email { get; set; }
         public double Nota { get; set; }
 
