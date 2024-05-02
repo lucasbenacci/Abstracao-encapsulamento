@@ -8,6 +8,11 @@ namespace Abstracao_encapsulamento.Models
 {
     public class Professor : Pessoa
     {
+        public Professor()
+        {
+            
+        }
+
         public Professor(string nome) : base(nome)
         {
             
