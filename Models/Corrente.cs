@@ -5,8 +5,11 @@ using System.Threading.Tasks;
 
 namespace Abstracao_encapsulamento.Models
 {
-    public class Corrente
+    public class Corrente : Conta
     {
-        
+        public override void Creditar(decimal valor)
+        {
+            Saldo += valor;
+        }
     }
 }

@@ -30,3 +30,12 @@ pf1.Idade = 45;
 pf1.Salario = 2600;
 pf1.Apresentar();
 
+Console.WriteLine("-------------------------------");
+
+Corrente c = new Corrente();
+
+c.Creditar(500);
+c.ExibirSaldo();
+
+c.Creditar(800);
+c.ExibirSaldo();

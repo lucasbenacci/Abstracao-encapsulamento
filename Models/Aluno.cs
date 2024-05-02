@@ -12,7 +12,7 @@ namespace Abstracao_encapsulamento.Models
 
         public override void Apresentar()
         {
-            Console.WriteLine($"Olá Meu nome é {Nome}, tenho {Idade} anos e minha note é {Nota}");
+            Console.WriteLine($"Olá Meu nome é {Nome}, tenho {Idade} anos e minha note é {Nota}!");
         }
     }
 }
